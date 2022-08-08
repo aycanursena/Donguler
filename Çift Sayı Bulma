@@ -21,5 +21,4 @@ public class CiftSayiBulma {
         }else
             System.out.println("Girilen sayı 3 ve 4'ün ortak katı değil.");
     }
-
 }
