@@ -1,3 +1,4 @@
+```
 package Donguler;
 import java.util.Scanner;
 
@@ -20,3 +21,4 @@ public class MukemmelSayi {
             System.out.println(sayi + " mükemmel bir sayı değildir.");
     }
 }
+```
