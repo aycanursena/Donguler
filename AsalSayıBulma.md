@@ -1,3 +1,4 @@
+```
 package Donguler;
 
 public class AsalSayiBulma {
@@ -16,3 +17,4 @@ public class AsalSayiBulma {
         }
     }
 }
+```
