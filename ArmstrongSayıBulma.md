@@ -1,3 +1,4 @@
+```
 package Donguler;
 import java.util.Scanner;
 
@@ -17,3 +18,4 @@ public class ArmstrongSayi {
         System.out.println("Toplam : " + toplam);
     }
 }
+```
