@@ -1,3 +1,4 @@
+```
 package Donguler;
 import java.util.Scanner;
 
@@ -22,3 +23,4 @@ public class CiftSayiBulma {
             System.out.println("Girilen sayı 3 ve 4'ün ortak katı değil.");
     }
 }
+```
