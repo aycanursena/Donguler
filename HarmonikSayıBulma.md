@@ -1,3 +1,4 @@
+```
 package Donguler;
 import java.util.Scanner;
 
@@ -14,3 +15,4 @@ public class HarmonikSayiBulma {
         System.out.println("Sonuç : " + toplam);
     }
 }
+```
