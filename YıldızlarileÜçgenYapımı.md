@@ -1,3 +1,4 @@
+```
 package Donguler;
 import java.util.Scanner;
 
@@ -25,3 +26,4 @@ public class YildizlarElmasYapma {
         }
     }
 }
+```
