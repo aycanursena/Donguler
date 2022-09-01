@@ -1,4 +1,5 @@
-package Donguler;
+```
+Donguler;
 import java.util.Scanner;
 
 public class TersUcgen {
@@ -19,3 +20,4 @@ public class TersUcgen {
         }
     }
 }
+```
