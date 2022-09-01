@@ -1,3 +1,4 @@
+```
 package Donguler;
 import java.util.Scanner;
 
@@ -56,3 +57,4 @@ public class ATM_Projesi {
         }
     }
 }
+```
