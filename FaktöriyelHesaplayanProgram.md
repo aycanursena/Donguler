@@ -1,3 +1,4 @@
+```
 package Donguler;
 import java.util.Scanner;
 
@@ -26,3 +27,4 @@ public class Kombinasyon {
         System.out.println("Kombinasyon : " + kombinasyon);
     }
 }
+```
